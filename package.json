@@ -1,0 +1,8 @@
+{
+  "name": "introduction-to-algorithms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fliptv97/introduction-to-algorithms.git",
+  "author": "Philip Kazakov <fliptv97@gmail.com>",
+  "license": "MIT"
+}
